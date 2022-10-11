@@ -8,3 +8,6 @@ To run this demo, you need to type "npm install" firstly and then "npm start" in
 3. Chatbot_gif (short video)
 
 to see how I did in SASS code
+
+### Screenshot
+![screenshot](https://github.com/wanglyon01/chat-box/blob/main/screenshot/Screenshot%202022-10-11%20174936.png)
